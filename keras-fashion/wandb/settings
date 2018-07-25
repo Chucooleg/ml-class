@@ -1,4 +1,4 @@
 [default]
-entity: ml-class
-project: fashion-mar17
+entity: lukeab-m27
+project: fashion
 base_url: https://api.wandb.ai
